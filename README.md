@@ -1,4 +1,4 @@
-# A Student-Deparment Management System
+# A Student-Department Management System
 A simple django app to maintain student and thier respective department information.
 
 ## Screenshots
